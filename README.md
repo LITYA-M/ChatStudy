@@ -134,6 +134,7 @@ server.py:
 <img width="636" height="120" alt="Screenshot 2026-01-30 131624" src="https://github.com/user-attachments/assets/c6251623-30be-44b7-ba08-9b47908b859f" />
 
 client.py:
+
 <img width="624" height="166" alt="Screenshot 2026-01-30 141958" src="https://github.com/user-attachments/assets/be9db0e9-1bc0-4470-b88f-e644de8e274d" />
 
 
